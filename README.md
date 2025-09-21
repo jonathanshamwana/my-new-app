@@ -1,4 +1,4 @@
-# 🎨 Immersive Textile Gallery
+# Wax Print Archive **Prototype**
 
 An immersive 3D web application for displaying ML-generated textiles with accompanying audio clips. Built with React, Three.js, and React Three Fiber.
 
